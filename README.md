@@ -2,7 +2,7 @@
 Learning Markdown language
 
 
-# Some new title
+# Another title
 
 
-# Add a title
+# Add a brand new shiny title
